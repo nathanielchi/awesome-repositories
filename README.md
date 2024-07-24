@@ -7,13 +7,13 @@
 
 ### 🕶 Awesome Lists
 
-- [Abhishek Naiidu/Awesome Github-Profile Readmes](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Abhishek Naiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 
 ### 📛 Badges
 
-- [Ileriayo/Markdown Badges](https://github.com/Ileriayo/markdown-badges)
-
+- [Ileriayo Adebiyi](https://github.com/Ileriayo/markdown-badges)
+- [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ## Contribute 
 
