@@ -5,7 +5,15 @@
 
 ## Categories
 
-**Coming soon**
+### 🕶 Awesome Lists
+
+- [Abhishek Naiidu/Awesome Github-Profile Readmes](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+
+### 📛 Badges
+
+- [Ileriayo/Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
 
 ## Contribute 
 
