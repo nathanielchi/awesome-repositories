@@ -8,7 +8,6 @@
 ### 🕶 Awesome Lists
 
 - [Abhishek Naiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-- [A]
 
 ### 📛 Badges
 
