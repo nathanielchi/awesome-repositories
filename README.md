@@ -16,7 +16,9 @@
 ### 📛 Badges
 
 - [Ileriayo Adebiyi](https://github.com/Ileriayo/markdown-badges)
+  
 - [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+  
 - [My Badges](https://github.com/my-badges/my-badges)
 
 
