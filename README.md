@@ -1,5 +1,5 @@
-# Awesome Repositories [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#repositories)
-> A curated list of awesome github repositories
+<h1 align="center">Awesome Repositories</h1>
+<h3 align="center">A curated list of awesome github repositories</h3>
 
 ## Categories
 
@@ -11,6 +11,7 @@
 
 - [Vinta Chen](https://github.com/vinta/awesome-python)
 
+- [Pawel Borkar](https://github.com/pawelborkar/awesome-repos)
 
 
 ### 📛 Badges
