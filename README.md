@@ -5,22 +5,40 @@
 
 ### 🕶 Awesome Lists
 
-- [Abhishek Naiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-- [Jose de Freitas](https://github.com/JoseDeFreitas/awesome-youtubers)
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 
-- [Vinta Chen](https://github.com/vinta/awesome-python)
+- [awesome-python](https://github.com/vinta/awesome-python)
 
-- [Pawel Borkar](https://github.com/pawelborkar/awesome-repos)
+- [awesome-repos](https://github.com/pawelborkar/awesome-repos)
 
 
 ### 📛 Badges
 
-- [Ileriayo Adebiyi](https://github.com/Ileriayo/markdown-badges)
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges)
   
-- [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [Badges4-README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
   
 - [My Badges](https://github.com/my-badges/my-badges)
+
+
+### 🛠 Profile README Tools
+
+- [profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+  
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+  
+- [snk](https://github.com/platane/snk)
+
+
+### 🤖 Github Actions
+
+- [profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+  
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+
+- [snk](https://github.com/platane/snk)
 
 
 ## Contribute 
