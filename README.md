@@ -5,6 +5,8 @@
 
 ### 🕶 Awesome Lists
 
+- [awesome-actions](https://github.com/sdras/awesome-actions)
+
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 - [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
