@@ -33,6 +33,9 @@
   
 - [snk](https://github.com/platane/snk)
 
+- [github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info)
+
+
 
 ### 🤖 Github Actions
 
@@ -41,6 +44,8 @@
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 
 - [snk](https://github.com/platane/snk)
+
+- [github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info)
 
 
 ## Contribute 
